@@ -1,0 +1,60 @@
+@startuml
+
+hide empty members
+hide empty methods
+skinparam titleFontSize 18
+skinparam titleFontColor black
+
+title
+UML Model diagram: Billfold-IT
+endtitle
+
+class Person {
+    - id: int
+    - lastname: String
+    - firstname: String
+    - role: TypeMember
+    - salaried: boolean
+}
+
+enum TypeMember {
+    ADULT_MALE
+    ADULT_FEMALE
+    CHILD
+    FRIEND
+}
+
+enum SpendingsCategory {
+    SALARY
+    CHARGES
+    RENT
+    VEHICLE
+    TRANSPORT
+    FOOD
+    HOBBIES
+    HEALTH
+    OTHER
+}
+
+class Spendings {
+    - category: Spend
+    - value: double
+}
+
+Person ..* Spendings
+Person o-- TypeMember
+Spendings o-- SpendingsCategory
+
+'========================================
+' Liens avec les interfaces : héritage
+' http://ecrucru.free.fr/?page=uml
+
+' ..|> Implementation
+' --|> Héritage
+
+' --o Aggrégation
+' --* Composition
+' --> Association
+' ..> Dépendance
+
+@enduml
