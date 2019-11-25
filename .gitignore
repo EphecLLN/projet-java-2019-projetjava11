@@ -1,0 +1,22 @@
+# Git ignore of Billfold-IT project
+# See repository at https://github.com/EphecLLN/projet-java-2019-projetjava11
+# ===========================================================================
+
+# Files and folders of IDE
+.idea/
+*.iml
+
+# Other files
+.classpath
+.metadata/
+.settings/
+.project
+
+# Documents and useless files
+uml/plantuml\.jar
+*.DS_Store
+
+# config files
+*.cfg
+*.json
+
