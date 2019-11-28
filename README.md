@@ -1,4 +1,4 @@
-># TodoList
+># Billfold-IT
 >
 >A project of the lesson of Dev. App. (Java) 2nd Bachelor at EPHEC
 
