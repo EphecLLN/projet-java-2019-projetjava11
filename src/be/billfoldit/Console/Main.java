@@ -1,6 +1,5 @@
 package be.billfoldit.console;
 
-
 public class Main {
 	
 	public static void main(String[] args) {
