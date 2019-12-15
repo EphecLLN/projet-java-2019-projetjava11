@@ -1,5 +1,10 @@
 package be.billfoldit.model;
 
+/**
+ * Class which create a spending based on a description and an amount.
+ * The amount can be a round or unround value.
+ * @author Melvin Campos Casares
+ */
 public class Spending {
     private String description;
     private double amount;
@@ -9,18 +14,34 @@ public class Spending {
         this.amount = amount;
     }
 
+    /**
+     * Method to get the description of the spending
+     * @return the description of the spending
+     */
     public String getDescription() {
         return description;
     }
 
+    /**
+     * Metho to set a description on a spending
+     * @param description the description that will be set on the spending
+     */
     public void setDescription(String description) {
         this.description = description;
     }
 
+    /**
+     * Method to get the amount of the spending
+     * @return the amount of the spending
+     */
     public double getAmount() {
         return amount;
     }
 
+    /**
+     * Method to an amount on a spending
+     * @param amount the amount that will be set on a spending
+     */
     public void setAmount(double amount) {
         this.amount = amount;
     }
