@@ -4,6 +4,7 @@
 
 # Files and folders of IDE
 .idea/
+META-INF/
 *.iml
 
 # Other files
