@@ -1,0 +1,26 @@
+---
+title: Billfold-IT
+subtitle: EPHEC - Projet de Java n°11
+author: 
+    - Melvin Campos Casares
+    - Constantin Mirica
+    - Aymeric Ponjée
+date: 17 décembre 2019
+lang: fr
+papersize: a4
+fontsize: 11pt
+whitespace: small
+margin-top: 1.5cm
+margin-left: 2.5cm
+margin-right: 2.5cm
+margin-bottom: 1.5cm
+keywords: [Java, dev, EPHEC, 2TI]
+titlepage: true
+titlepage-rule-height: 6
+footer-left: Groupe 11 - Aymeric, Constantin, Melvin
+toc: true
+toc-own-page: true
+toc-title: Groupe 11 - Billfold-IT
+logo: "ephec-portal-logo.png"
+logo-width: 250
+---
