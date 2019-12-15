@@ -16,11 +16,12 @@ margin-right: 2.5cm
 margin-bottom: 1.5cm
 keywords: [Java, dev, EPHEC, 2TI]
 titlepage: true
+titlepage-rule-color: ef6c00
 titlepage-rule-height: 6
 footer-left: Groupe 11 - Aymeric, Constantin, Melvin
 toc: true
 toc-own-page: true
 toc-title: Groupe 11 - Billfold-IT
 logo: "ephec-portal-logo.png"
-logo-width: 250
+logo-width: 100
 ---
