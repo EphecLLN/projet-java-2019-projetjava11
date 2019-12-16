@@ -163,3 +163,5 @@ Ayant réussi le cours théorique l'an passé, contrairement au cours pratique, 
 ## Constantin Mirica
 
 ## Aymeric Ponjée
+
+Je trouve que faire un projet dans ce cours est super intéressant car c'est, selon moi, le meilleur moyen d'apprendre. C'est pendant les projet que nous apprenons à nous débrouiller et à trouver des choses que nous n'apprenons pas en cours. Malheureusement, je n'ai pas pu investir le temps voulu dans le projet à cause des autres cours et malgré la politique de l'école où nous devons travailler en prioriter les cours du bloc inférieur je n'ai pas réussi à gerer mon temps.
