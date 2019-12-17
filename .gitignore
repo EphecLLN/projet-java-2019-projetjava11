@@ -12,6 +12,7 @@ META-INF/
 .metadata/
 .settings/
 .project
+*.psd
 
 # Documents and useless files
 uml/plantuml\.jar
