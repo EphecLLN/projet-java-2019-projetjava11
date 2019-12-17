@@ -2,7 +2,7 @@ package be.billfoldit.views;
 
 import be.billfoldit.model.Member;
 
-**
+/**
  * 
  * @author Aymeric Ponjée
  */
