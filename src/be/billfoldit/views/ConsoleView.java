@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
 /**
  * CLI view class.
  * 
- * @author Melvin Campos Casares
+ * @author Aymeric Ponjée
  */
 public class ConsoleView extends BaseView {
 
