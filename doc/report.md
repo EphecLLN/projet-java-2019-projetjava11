@@ -162,6 +162,8 @@ Ayant réussi le cours théorique l'an passé, contrairement au cours pratique, 
 
 ## Constantin Mirica
 
+À mon avis le projet reste le meilleur moyen d'appréhender ce cours. Je trouve que tout était faisable et que nous pouvions aller beaucoup plus loin si on accordait plus de temps. Malheureusement, nous avons dû nous arrêter à un certain niveau de complexité, à cause d'une mauvaise gestion de temps de notre part. 
+
 ## Aymeric Ponjée
 
 Je trouve que faire un projet dans ce cours est super intéressant car c'est, selon moi, le meilleur moyen d'apprendre. C'est pendant les projet que nous apprenons à nous débrouiller et à trouver des choses que nous n'apprenons pas en cours. Malheureusement, je n'ai pas pu investir le temps voulu dans le projet à cause des autres cours et malgré la politique de l'école où nous devons travailler en prioriter les cours du bloc inférieur je n'ai pas réussi à gerer mon temps.
