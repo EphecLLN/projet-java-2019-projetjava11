@@ -10,7 +10,7 @@ import be.billfoldit.TypeMember;
  * Class that ask for a choice in the main menu (CLI view) and checks if a
  * String, Double or int has been entered.
  * 
- * @author Melvin Campos Casares
+ * @author Aymeric Ponjée
  */
 public class Input {
 	private static final Scanner scanner = new Scanner(System.in);
